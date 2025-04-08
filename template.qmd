@@ -2,18 +2,18 @@
 title: Untitled
 format:
   modern2-cv-pdf: default
-author: David Schoch
+author: Yuxuan Chen
 cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
 cvcolor: 
   main: B83B5E
   accent: 6A2C70
-jobtitle: Team Lead "Transparent Social Analytics"
+jobtitle: Job title
 sidebar:
   image: portrait.jpg
   bullets:
-    - Konstanz, Germany
-    - german
-    - married
+    - bullet 1
+    - bullet 2
+    - bullet 3
   sections: 
     - name: Skills
       items:
@@ -72,20 +72,18 @@ sidebar:
     - name: Contact
       items:
         - icon: map-marker
-          text: Konstanz, Germany
+          text: location
         - icon: phone
-          text: "+XX XXXX XXXX"
+          text: "+86 13957992893"
         - icon: envelope
-          text: david@schochastics.net
+          text: cyxnbnbnb@gmail.com
         - icon: home
           text: mr.schochastics.net
-          href: https://mr.schochastics.net
+          href: https://cyxnbnbnb.github.io/
         - icon: github
           text: schochastics
-          href: https://github.com/schochastics
-        - icon: twitter
-          text: schochastics
-          href: https://twitter.com/schochastics    
+          href: https://github.com/CYXNBNBNB
+    
 execute: 
   echo: false
 ---
